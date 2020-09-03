@@ -1,0 +1,6 @@
+framework module BeautyHomeMoudle {
+  umbrella header "BeautyHomeMoudle-umbrella.h"
+
+  export *
+  module * { export * }
+}
